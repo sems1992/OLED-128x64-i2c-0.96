@@ -3,7 +3,7 @@
 - [Shoope](https://shopee.co.id/warnaparabola)
 - [Bukalapak](https://www.bukalapak.com/u/aditardiansyah092).
 
-
+## 信息:
 - 👋 Creator by Aditya Wahyu Ardiansyah
 - 👀 Warna Parabola Ponorogo
 - 🌱 Example code for LCD OLED 0,96 inch
