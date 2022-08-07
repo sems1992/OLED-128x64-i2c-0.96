@@ -18,7 +18,6 @@ ________  .____     ___________________              _______      ________  ____
  |___/______  /\_____  /\_____  /                                                   
             \/       \/       \/                                                    
 
-
 - 👋 Creator by Aditya Wahyu Ardiansyah
 - 👀 Warna Parabola Ponorogo
 - 🌱 Example code for LCD OLED 0,96 inch
