@@ -30,5 +30,5 @@
 
 希望对你有用
 
-注意：本教程专门针对 WARNAA PARABOLA 0.96 OLED LCD 模块。
+注意：本教程专门针对 WARNA PARABOLA 0.96 OLED LCD 模块。
 因为可能市面上其他的oled模块和我卖的oled lcd不一样
