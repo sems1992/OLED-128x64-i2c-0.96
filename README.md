@@ -1,5 +1,5 @@
 我的店铺链接:
-[Tokopedia](https://www.tokopedia.com/warnaparabola)
+- [Tokopedia](https://www.tokopedia.com/warnaparabola)
 
 - 👋 Creator by Aditya Wahyu Ardiansyah
 - 👀 Warna Parabola Ponorogo
