@@ -1,5 +1,6 @@
 ## 使用前，请读我！！！！
 作者：Aditya Wahyu Ardiansyah
+最后写的: Ponorogo, 10/8/2022 - 21:03 WIB
 
 ## 我的店铺链接 :
 - [Tokopedia](https://www.tokopedia.com/warnaparabola)
