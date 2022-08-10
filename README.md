@@ -1,4 +1,5 @@
 ## 使用前，请读我！！！！
+作者：Aditya Wahyu Ardiansyah
 
 ## 我的店铺链接 :
 - [Tokopedia](https://www.tokopedia.com/warnaparabola)
@@ -25,7 +26,6 @@
 这样我从经验中获得了。
 你可以阅读这篇文章，如果它是有用的 :)
 
-作者：Aditya Wahyu Ardiansyah
 [照片差异](https://github.com/AdityaWA05/OLED-128x64-i2c-0.96/blob/main/%E5%B7%AE%E5%BC%82%E9%A9%B1%E5%8A%A8ic%20oled%200.96.jpg)
 
 规则是:
