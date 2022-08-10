@@ -1,3 +1,5 @@
+## 使用前，请读我！！！！
+
 ## 我的店铺链接 :
 - [Tokopedia](https://www.tokopedia.com/warnaparabola)
 - [Shoope](https://shopee.co.id/warnaparabola)
@@ -17,6 +19,9 @@
 对不起，我的语言是中文，对不起，我是从那里出售的液晶显示器中学到的，并从中国获得了完整的数据表信息
 我不遵循来自我自己国家（印度尼西亚）的论坛的教程
 因为大多数不匹配/作者不理解所描述的项目。所以这是我对他们的尊重:)
+
+## 差异驱动ic oled 0.96 :
+[照片差异](https://github.com/AdityaWA05/OLED-128x64-i2c-0.96/blob/main/%E5%B7%AE%E5%BC%82%E9%A9%B1%E5%8A%A8ic%20oled%200.96.jpg)
 
 规则是:
 ======
